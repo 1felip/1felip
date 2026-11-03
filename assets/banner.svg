@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Felipe Paschoini Reis — IA Aplicada e Automação">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="0.6" stop-color="#111a33"/>
+      <stop offset="1" stop-color="#1a1040"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.04"/>
+    </pattern>
+    <style>
+      .t1{font:700 46px 'Segoe UI',Inter,Helvetica,Arial,sans-serif;fill:#f8fafc}
+      .t2{font:500 21px 'Segoe UI',Inter,Helvetica,Arial,sans-serif;fill:#cbd5e1}
+      .t3{font:600 15px 'Cascadia Code',Consolas,'Courier New',monospace;fill:#22d3ee;letter-spacing:1px}
+      .nl{font:600 12px 'Segoe UI',Inter,Helvetica,Arial,sans-serif;fill:#e2e8f0}
+      .wire{fill:none;stroke:url(#accent);stroke-width:2.5;stroke-dasharray:8 8;animation:flow 1.4s linear infinite}
+      .node{fill:#0f172a;stroke:#334155;stroke-width:1.5}
+      .pulse{animation:pulse 2.4s ease-in-out infinite}
+      .p2{animation-delay:.6s}.p3{animation-delay:1.2s}.p4{animation-delay:1.8s}
+      .cursor{animation:blink 1s step-end infinite}
+      @keyframes flow{to{stroke-dashoffset:-32}}
+      @keyframes pulse{0%,100%{opacity:.35}50%{opacity:1}}
+      @keyframes blink{50%{opacity:0}}
+    </style>
+  </defs>
+
+  <rect width="1200" height="320" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="18" fill="url(#grid)"/>
+  <rect x="60" y="250" width="120" height="4" rx="2" fill="url(#accent)"/>
+
+  <!-- Texto -->
+  <text x="60" y="92" class="t3">&gt; olá, mundo_<tspan class="cursor">|</tspan></text>
+  <text x="60" y="150" class="t1">Felipe Paschoini Reis</text>
+  <text x="60" y="190" class="t2">IA Aplicada &amp; Automação · Engenharia na UFU</text>
+  <text x="60" y="222" class="t2" fill-opacity="0.8">Transformo processos manuais em fluxos que rodam sozinhos.</text>
+
+  <!-- Fluxo estilo n8n -->
+  <g transform="translate(700,70)">
+    <path class="wire" d="M92 40 C140 40,140 90,188 90"/>
+    <path class="wire" d="M92 140 C140 140,140 90,188 90"/>
+    <path class="wire" d="M300 90 C330 90,330 40,360 40"/>
+    <path class="wire" d="M300 90 C330 90,330 140,360 140"/>
+
+    <g class="pulse"><rect class="node" x="0" y="14" width="92" height="52" rx="10"/><circle cx="20" cy="40" r="7" fill="#22d3ee"/><text x="34" y="44" class="nl">Gatilho</text></g>
+    <g class="pulse p2"><rect class="node" x="0" y="114" width="92" height="52" rx="10"/><circle cx="20" cy="140" r="7" fill="#38bdf8"/><text x="34" y="144" class="nl">SQL</text></g>
+    <g class="pulse p3"><rect class="node" x="188" y="58" width="112" height="64" rx="12" stroke="#a78bfa"/><circle cx="210" cy="90" r="8" fill="#a78bfa"/><text x="224" y="95" class="nl">Agente IA</text></g>
+    <g class="pulse p4"><rect class="node" x="360" y="14" width="92" height="52" rx="10"/><circle cx="380" cy="40" r="7" fill="#34d399"/><text x="394" y="44" class="nl">CRM</text></g>
+    <g class="pulse"><rect class="node" x="360" y="114" width="92" height="52" rx="10"/><circle cx="380" cy="140" r="7" fill="#f472b6"/><text x="394" y="144" class="nl">Relatório</text></g>
+  </g>
+</svg>

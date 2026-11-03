@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="230" viewBox="0 0 1000 230" role="img" aria-label="Trajetória: Royal Opções, UFU, CONSELT e IA e Automação">
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f472b6"/>
+      <stop offset="0.5" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <style>
+      .yr{font:700 14px 'Cascadia Code',Consolas,monospace;fill:#22d3ee}
+      .ti{font:700 17px 'Segoe UI',Inter,Helvetica,Arial,sans-serif;fill:#f8fafc}
+      .de{font:400 13px 'Segoe UI',Inter,Helvetica,Arial,sans-serif;fill:#94a3b8}
+      .hd{font:700 13px 'Segoe UI',Inter,Helvetica,Arial,sans-serif;fill:#64748b;letter-spacing:2px}
+      .now{animation:glow 2s ease-in-out infinite}
+      @keyframes glow{0%,100%{r:9}50%{r:13}}
+    </style>
+  </defs>
+  <rect width="1000" height="230" rx="16" fill="#0b1020"/>
+  <text x="40" y="40" class="hd">TRAJETÓRIA</text>
+  <rect x="60" y="88" width="880" height="4" rx="2" fill="url(#line)"/>
+
+  <circle cx="90" cy="90" r="9" fill="#f472b6"/>
+  <text x="60" y="128" class="yr">2021–22</text>
+  <text x="60" y="152" class="ti">Royal Opções</text>
+  <text x="60" y="172" class="de">Fundador de e-commerce:</text>
+  <text x="60" y="190" class="de">tráfego, métricas, conversão</text>
+
+  <circle cx="330" cy="90" r="9" fill="#38bdf8"/>
+  <text x="300" y="128" class="yr">2022 →</text>
+  <text x="300" y="152" class="ti">UFU</text>
+  <text x="300" y="172" class="de">Eng. Eletrônica e de Telecom.</text>
+  <text x="300" y="190" class="de">base em POO e programação</text>
+
+  <circle cx="570" cy="90" r="9" fill="#22d3ee"/>
+  <text x="540" y="128" class="yr">2024–25</text>
+  <text x="540" y="152" class="ti">CONSELT</text>
+  <text x="540" y="172" class="de">Coordenador de Negócios:</text>
+  <text x="540" y="190" class="de">time triplicou as vendas</text>
+
+  <circle class="now" cx="810" cy="90" r="9" fill="#a78bfa"/>
+  <text x="780" y="128" class="yr">agora</text>
+  <text x="780" y="152" class="ti">IA &amp; Automação</text>
+  <text x="780" y="172" class="de">n8n, Python, LLMs e agentes;</text>
+  <text x="780" y="190" class="de">em busca de estágio</text>
+</svg>
