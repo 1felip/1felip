@@ -18,7 +18,7 @@
 
 ## Sobre mim
 
-Sou estudante de **Engenharia Eletrônica e de Telecomunicações na UFU** e trabalho com **Inteligência Artificial aplicada e automação de processos**. Antes de programar fluxos, eu vendia: coordenei o time de negócios da **CONSELT** (empresa júnior), onde triplicamos as vendas de novos contratos, e fundei um e-commerce próprio. Por isso olho para automação pelo lado de quem usa: qual tarefa manual dá para tirar das mãos de alguém e quanto tempo isso devolve.
+Sou estudante de **Engenharia Eletrônica e de Telecomunicações na UFU** e trabalho com **Inteligência Artificial aplicada e automação de processos**. Antes de programar fluxos, eu vendia: coordenei o time de negócios da **CONSELT** (empresa júnior) e fundei um e-commerce próprio. Por isso olho para automação pelo lado de quem usa: qual tarefa manual dá para tirar das mãos de alguém e quanto tempo isso devolve.
 
 - Hoje estou construindo agentes de IA e fluxos com **n8n, Python e LLMs**, e estudando **SQL, TypeScript e dados**.
 - Procuro **estágio em IA e automação de dados, inovação ou gestão de projetos**.
