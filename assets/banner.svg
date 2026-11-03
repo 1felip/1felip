@@ -33,7 +33,7 @@
   <rect x="60" y="250" width="120" height="4" rx="2" fill="url(#accent)"/>
 
   <!-- Texto -->
-  <text x="60" y="92" class="t3">&gt; olá, mundo_<tspan class="cursor">|</tspan></text>
+  <text x="60" y="92" class="t3">&gt; hello world_<tspan class="cursor">|</tspan></text>
   <text x="60" y="150" class="t1">Felipe Paschoini Reis</text>
   <text x="60" y="190" class="t2">IA Aplicada &amp; Automação · Engenharia na UFU</text>
   <text x="60" y="222" class="t2" fill-opacity="0.8">Transformo processos manuais em fluxos que rodam sozinhos.</text>
