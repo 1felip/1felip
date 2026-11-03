@@ -63,12 +63,8 @@ const felipe = {
 ## Projetos em destaque
 
 <p align="center">
-  <a href="https://github.com/1felip/linkedin-agent-claude-code">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=1felip&repo=linkedin-agent-claude-code&theme=tokyonight&hide_border=true&bg_color=0b1020" alt="linkedin-agent-claude-code"/>
-  </a>
-  <a href="https://github.com/1felip/ai-brand-designer-studio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=1felip&repo=ai-brand-designer-studio&theme=tokyonight&hide_border=true&bg_color=0b1020" alt="ai-brand-designer-studio"/>
-  </a>
+  <a href="https://github.com/1felip/linkedin-agent-claude-code"><img src="./assets/card-linkedin-agent.svg" width="49%" alt="linkedin-agent-claude-code"/></a>
+  <a href="https://github.com/1felip/ai-brand-designer-studio"><img src="./assets/card-brand-designer.svg" width="49%" alt="ai-brand-designer-studio"/></a>
 </p>
 
 - **[linkedin-agent-claude-code](https://github.com/1felip/linkedin-agent-claude-code)**: agente para o Claude Code que analisa o perfil do LinkedIn, escreve posts com carrossel de imagens e publica pela API oficial, sempre com aprovação humana antes de qualquer ação.
@@ -77,16 +73,16 @@ const felipe = {
 ## Contribuições no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1felip&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0b1020&locale=pt-br" height="170" alt="Estatísticas"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1felip&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b1020&locale=pt-br" height="170" alt="Linguagens mais usadas"/>
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="Calendário de contribuições"/>
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="Estatísticas"/>
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Linguagens com mais commits"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=1felip&theme=tokyonight&hide_border=true&background=0b1020&locale=pt_BR" alt="Sequência de contribuições"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1felip&bg_color=0b1020&color=a78bfa&line=22d3ee&point=f8fafc&area=true&area_color=22d3ee&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20no%20%C3%BAltimo%20m%C3%AAs" width="100%" alt="Gráfico de atividade"/>
 </p>
 
 <p align="center">
