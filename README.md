@@ -24,8 +24,7 @@ const felipe = {
   formacao: "Eng. Eletrônica e de Telecomunicações @ UFU",
   foco: ["IA aplicada", "Automação de processos", "Dados"],
   stack: ["n8n", "Python", "SQL", "TypeScript", "JavaScript"],
-  bagagem: "Vendas, CRM e gestão de time na CONSELT",
-  buscando: "Estágio em IA, automação, inovação ou projetos",
+  bagagem: "Vendas, CRM e gestão de time",
 };
 ```
 
