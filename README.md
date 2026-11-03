@@ -22,7 +22,7 @@ Sou estudante de **Engenharia Eletrônica e de Telecomunicações na UFU** e tra
 
 - Hoje estou construindo agentes de IA e fluxos com **n8n, Python e LLMs**, e estudando **SQL, TypeScript e dados**.
 - Procuro **estágio em IA e automação de dados, inovação ou gestão de projetos**.
-- Gosto de explicar automação sem jargão para quem não é da área, principalmente pequenas e médias empresas.
+
 
 ```ts
 const felipe = {
