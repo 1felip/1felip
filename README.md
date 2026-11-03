@@ -3,8 +3,12 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/felipepaschoinireis"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:fepaschoini@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
+  <a href="https://www.linkedin.com/in/felipepaschoinireis"><img src="https://skillicons.dev/icons?i=linkedin" width="44" alt="LinkedIn"/></a>&nbsp;
+  <a href="mailto:fepaschoini@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="44" alt="E-mail"/></a>&nbsp;
+  <a href="https://wa.me/5535988989758"><img src="./assets/icon-whatsapp.svg" width="44" alt="WhatsApp"/></a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Uberl%C3%A2ndia-MG-22d3ee?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Uberlândia/MG"/>
   <img src="https://img.shields.io/badge/Aberto%20a-est%C3%A1gio-a78bfa?style=for-the-badge&logo=rocket&logoColor=white" alt="Aberto a estágio"/>
   <img src="https://komarev.com/ghpvc/?username=1felip&label=visitas&color=0f172a&style=for-the-badge" alt="Visitas"/>
