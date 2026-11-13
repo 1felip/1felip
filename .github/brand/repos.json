@@ -1,0 +1,37 @@
+{
+  "_como_usar": "Repositórios públicos novos ganham ícone e card sozinhos, com o nome, a descrição e a linguagem do GitHub. Para ajustar um card, adicione o nome do repositório abaixo com qualquer campo: titulo, rotulo, status, descricao, stack, monograma, ordem (menor aparece antes) ou ocultar (true).",
+  "ignorar": ["1felip"],
+  "repos": {
+    "socio": {
+      "ordem": 1,
+      "titulo": "Sócio",
+      "status": "em construção",
+      "rotulo": "projeto independente, sem vínculo com o iFood",
+      "descricao": "Um agente de IA que ajuda o dono de um pequeno restaurante a operar a loja no iFood pelo WhatsApp, sempre com a aprovação dele.",
+      "stack": "TypeScript, Next.js, Supabase, Vercel AI SDK, n8n, WhatsApp Cloud API"
+    },
+    "ai-brand-designer-studio": {
+      "ordem": 2,
+      "titulo": "AI Brand Designer Studio",
+      "rotulo": "a identidade do meu site saiu daqui",
+      "descricao": "Um agente de IA que atua como diretor de arte e estrategista de marca dentro do Claude Code.",
+      "stack": "Claude Code, PowerShell, Gemini (Nano Banana), Recraft, Playwright",
+      "monograma": "AB"
+    },
+    "linkedin-agent-claude-code": {
+      "ordem": 3,
+      "titulo": "LinkedIn Agent",
+      "rotulo": "nada é publicado sem um \"sim\"",
+      "descricao": "Um agente para o Claude Code que analisa o perfil, escreve posts com carrossel e sugere comentários, sempre com aprovação humana.",
+      "stack": "Claude Code, Node.js, Playwright, LinkedIn API",
+      "monograma": "LA"
+    },
+    "vaultwright": {
+      "ordem": 4,
+      "titulo": "Vaultwright",
+      "rotulo": "agente de planejamento",
+      "descricao": "Da ideia crua a um plano testado, construído etapa por etapa dentro do seu vault do Obsidian. Funciona no Claude Code, Codex, Cursor e outros.",
+      "stack": "PowerShell, Obsidian, Claude Code, Codex, Cursor"
+    }
+  }
+}
