@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="170" viewBox="0 0 480 170" role="img" aria-label="socio">
+  <style>
+    .n{font:700 18px 'Segoe UI',Inter,Helvetica,Arial,sans-serif;fill:#FFC83D}
+    .d{font:400 13px 'Segoe UI',Inter,Helvetica,Arial,sans-serif;fill:#B9C7B4}
+    .t{font:600 11px 'Cascadia Code',Consolas,monospace;fill:#F2E8D5}
+  </style>
+  <rect width="480" height="170" rx="14" fill="#12352B" stroke="#1C4A3D"/>
+  <rect x="24" y="22" width="34" height="34" rx="8" fill="#FFC83D"/>
+  <path d="M32 30h18a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2H39l-5 4v-4h-2a2 2 0 0 1-2-2V32a2 2 0 0 1 2-2z" fill="none" stroke="#12352B" stroke-width="2.5" stroke-linejoin="round"/>
+  <text x="70" y="45" class="n">socio</text>
+  <text x="24" y="82" class="d">Agente para restaurantes parceiros: cardápio por foto,</text>
+  <text x="24" y="101" class="d">avaliações, analista de vendas e briefing em áudio</text>
+  <text x="24" y="120" class="d">via WhatsApp e painel, sempre com aprovação do dono.</text>
+  <rect x="24" y="134" width="96" height="22" rx="11" fill="#1C4A3D"/><text x="36" y="149" class="t">TypeScript</text>
+  <rect x="128" y="134" width="88" height="22" rx="11" fill="#1C4A3D"/><text x="140" y="149" class="t">Supabase</text>
+  <rect x="224" y="134" width="112" height="22" rx="11" fill="#1C4A3D"/><text x="236" y="149" class="t">WhatsApp API</text>
+</svg>

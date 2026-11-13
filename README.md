@@ -71,8 +71,15 @@ const felipe = {
   <a href="https://github.com/1felip/ai-brand-designer-studio"><img src="./assets/card-brand-designer.svg" width="49%" alt="ai-brand-designer-studio"/></a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/1felip/socio"><img src="./assets/card-socio.svg" width="49%" alt="socio"/></a>
+  <a href="https://github.com/1felip/vaultwright"><img src="./assets/card-vaultwright.svg" width="49%" alt="vaultwright"/></a>
+</p>
+
 - **[linkedin-agent-claude-code](https://github.com/1felip/linkedin-agent-claude-code)**: agente para o Claude Code que analisa o perfil do LinkedIn, escreve posts com carrossel de imagens e publica pela API oficial, sempre com aprovação humana antes de qualquer ação.
 - **[ai-brand-designer-studio](https://github.com/1felip/ai-brand-designer-studio)**: agente de IA que atua como designer e estrategista de branding dentro do Claude Code.
+- **[socio](https://github.com/1felip/socio)**: agente para restaurantes parceiros que cadastra o cardápio por foto, sugere respostas às avaliações, analisa as vendas e manda um briefing em áudio pelo WhatsApp e por um painel, sempre com a aprovação do dono antes de publicar.
+- **[vaultwright](https://github.com/1felip/vaultwright)**: agente de planejamento que leva uma ideia crua até um plano testado, etapa por etapa, dentro do seu vault do Obsidian. Funciona no Claude Code, Codex, Cursor e outros.
 
 ## Contribuições no GitHub
 
