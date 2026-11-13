@@ -1,20 +1,28 @@
 <p align="center">
-  <a href="https://www.felip.cloud"><img src="./assets/banner.svg" alt="Felipe Reis: transformo processos manuais em fluxos que rodam sozinhos." width="100%"/></a>
+  <img src="./assets/banner.svg" alt="Felipe Paschoini Reis — IA Aplicada e Automação" width="100%"/>
 </p>
 
 <p align="center">
-  <a href="https://www.felip.cloud"><img src="./assets/botao-site.svg" height="40" alt="Ver o site felip.cloud"/></a>&nbsp;
-  <a href="https://www.linkedin.com/in/felipepaschoinireis"><img src="./assets/botao-linkedin.svg" height="40" alt="LinkedIn"/></a>&nbsp;
-  <a href="mailto:fepaschoini@gmail.com"><img src="./assets/botao-email.svg" height="40" alt="E-mail"/></a>&nbsp;
-  <a href="https://wa.me/5535988989758"><img src="./assets/botao-whatsapp.svg" height="40" alt="WhatsApp"/></a>
+  <a href="https://www.linkedin.com/in/felipepaschoinireis"><img src="https://skillicons.dev/icons?i=linkedin" width="44" alt="LinkedIn"/></a>&nbsp;
+  <a href="mailto:fepaschoini@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="44" alt="E-mail"/></a>&nbsp;
+  <a href="https://wa.me/5535988989758"><img src="./assets/icon-whatsapp.svg" width="44" alt="WhatsApp"/></a>
 </p>
 
-## Engenharia com visão de negócio
+<p align="center">
+  <img src="https://img.shields.io/badge/Uberl%C3%A2ndia-MG-FFC83D?style=for-the-badge&logo=googlemaps&logoColor=12352B&labelColor=12352B" alt="Uberlândia/MG"/>
+  <img src="https://img.shields.io/badge/Aberto%20a-est%C3%A1gio-F2E8D5?style=for-the-badge&logo=rocket&logoColor=12352B&labelColor=12352B" alt="Aberto a estágio"/>
+  <img src="https://komarev.com/ghpvc/?username=1felip&label=visitas&color=12352B&style=for-the-badge" alt="Visitas"/>
+</p>
 
-Sou o **Felipe Paschoini Reis**, estudante de **Engenharia Eletrônica e de Telecomunicações na UFU**, e trabalho com **IA aplicada e automação de processos**. Antes de programar fluxos, eu vendia: coordenei o time de negócios da **CONSELT** (empresa júnior) e fundei um e-commerce próprio. Por isso olho para automação pelo lado de quem usa: qual tarefa manual dá para tirar das mãos de alguém e quanto tempo isso devolve.
+---
 
-- Hoje construo agentes de IA e fluxos com **n8n, Python e LLMs**, sempre com aprovação humana antes de qualquer ação, e estudo **SQL, TypeScript e dados**.
+## Sobre mim
+
+Sou estudante de **Engenharia Eletrônica e de Telecomunicações na UFU** e trabalho com **Inteligência Artificial aplicada e automação de processos**. Antes de programar fluxos, eu vendia: coordenei o time de negócios da **CONSELT** (empresa júnior) e fundei um e-commerce próprio. Por isso olho para automação pelo lado de quem usa: qual tarefa manual dá para tirar das mãos de alguém e quanto tempo isso devolve.
+
+- Hoje estou construindo agentes de IA e fluxos com **n8n, Python e LLMs**, e estudando **SQL, TypeScript e dados**.
 - Procuro **estágio em IA e automação de dados, inovação ou gestão de projetos**.
+
 
 ```ts
 const felipe = {
@@ -25,59 +33,72 @@ const felipe = {
 };
 ```
 
-## O que estou construindo
-
-Os projetos abertos ficam aqui, com o processo à mostra. Cada repositório público ganha um ícone e um card automaticamente.
-
-<!-- projetos:inicio (gerado por .github/brand/gerar.js, não edite à mão) -->
 <p align="center">
-  <a href="https://github.com/1felip/socio"><img src="./assets/repos/socio-card.svg" width="49%" alt="Sócio: Um agente de IA que ajuda o dono de um pequeno restaurante a operar a loja no iFood pelo WhatsApp, sempre com a aprovação dele."/></a>
-  <a href="https://github.com/1felip/ai-brand-designer-studio"><img src="./assets/repos/ai-brand-designer-studio-card.svg" width="49%" alt="AI Brand Designer Studio: Um agente de IA que atua como diretor de arte e estrategista de marca dentro do Claude Code."/></a>
+  <img src="./assets/trajetoria.svg" alt="Trajetória" width="100%"/>
+</p>
+
+## Linguagens e ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,mysql,postgres,html,css,nodejs&theme=dark" alt="Linguagens"/>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,windows&theme=dark" alt="Ferramentas"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/1felip/linkedin-agent-claude-code"><img src="./assets/repos/linkedin-agent-claude-code-card.svg" width="49%" alt="LinkedIn Agent: Um agente para o Claude Code que analisa o perfil, escreve posts com carrossel e sugere comentários, sempre com aprovação humana."/></a>
-  <a href="https://github.com/1felip/vaultwright"><img src="./assets/repos/vaultwright-card.svg" width="49%" alt="Vaultwright: Da ideia crua a um plano testado, construído etapa por etapa dentro do seu vault do Obsidian. Funciona no Claude Code, Codex, Cursor e outros."/></a>
+  <img src="https://img.shields.io/badge/n8n-12352B?style=for-the-badge&logo=n8n&logoColor=FFC83D" alt="n8n"/>
+  <img src="https://img.shields.io/badge/Claude-12352B?style=for-the-badge&logo=claude&logoColor=FFC83D" alt="Claude"/>
+  <img src="https://img.shields.io/badge/Claude%20Code-12352B?style=for-the-badge&logo=anthropic&logoColor=FFC83D" alt="Claude Code"/>
+  <img src="https://img.shields.io/badge/Playwright-12352B?style=for-the-badge&logo=playwright&logoColor=FFC83D" alt="Playwright"/>
+  <img src="https://img.shields.io/badge/LinkedIn%20API-12352B?style=for-the-badge&logo=linkedin&logoColor=FFC83D" alt="LinkedIn API"/>
+  <img src="https://img.shields.io/badge/Ploomes%20CRM-12352B?style=for-the-badge" alt="Ploomes CRM"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Office-12352B?style=for-the-badge&logo=microsoftoffice&logoColor=FFC83D" alt="Microsoft Office"/>
 </p>
 
-| | Repositório | O que faz |
-| :-: | :-- | :-- |
-| <img src="./assets/repos/socio-icone.svg" width="40" alt=""/> | **[Sócio](https://github.com/1felip/socio)** | Um agente de IA que ajuda o dono de um pequeno restaurante a operar a loja no iFood pelo WhatsApp, sempre com a aprovação dele. |
-| <img src="./assets/repos/ai-brand-designer-studio-icone.svg" width="40" alt=""/> | **[AI Brand Designer Studio](https://github.com/1felip/ai-brand-designer-studio)** | Um agente de IA que atua como diretor de arte e estrategista de marca dentro do Claude Code. |
-| <img src="./assets/repos/linkedin-agent-claude-code-icone.svg" width="40" alt=""/> | **[LinkedIn Agent](https://github.com/1felip/linkedin-agent-claude-code)** | Um agente para o Claude Code que analisa o perfil, escreve posts com carrossel e sugere comentários, sempre com aprovação humana. |
-| <img src="./assets/repos/vaultwright-icone.svg" width="40" alt=""/> | **[Vaultwright](https://github.com/1felip/vaultwright)** | Da ideia crua a um plano testado, construído etapa por etapa dentro do seu vault do Obsidian. Funciona no Claude Code, Codex, Cursor e outros. |
-<!-- projetos:fim -->
+## Competências
 
-## Do balcão de vendas ao fluxo que roda sozinho
+| IA e automação | Dados e código | Negócios e gestão |
+| :-- | :-- | :-- |
+| Agentes de IA com LLMs | Python e POO | Gestão de projetos |
+| Fluxos no n8n | SQL | Funil de vendas e CRM |
+| Integração de APIs | TypeScript e JavaScript | Pesquisa de mercado e precificação |
+| Automação com navegador (Playwright) | Versionamento com Git | Liderança de time e capacitação |
+
+## Projetos em destaque
 
 <p align="center">
-  <img src="./assets/trajetoria.svg" alt="Trajetória: Royal Opções, UFU, CONSELT e agora IA e automação" width="100%"/>
+  <a href="https://github.com/1felip/linkedin-agent-claude-code"><img src="./assets/card-linkedin-agent.svg" width="49%" alt="linkedin-agent-claude-code"/></a>
+  <a href="https://github.com/1felip/ai-brand-designer-studio"><img src="./assets/card-brand-designer.svg" width="49%" alt="ai-brand-designer-studio"/></a>
 </p>
 
-## Ferramentas
+- **[linkedin-agent-claude-code](https://github.com/1felip/linkedin-agent-claude-code)**: agente para o Claude Code que analisa o perfil do LinkedIn, escreve posts com carrossel de imagens e publica pela API oficial, sempre com aprovação humana antes de qualquer ação.
+- **[ai-brand-designer-studio](https://github.com/1felip/ai-brand-designer-studio)**: agente de IA que atua como designer e estrategista de branding dentro do Claude Code.
+
+## Contribuições no GitHub
 
 <p align="center">
-  <img src="./assets/stack.svg" alt="IA e automação, dados e código, negócios" width="100%"/>
-</p>
-
-## Contribuições
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=1felip&locale=pt_BR&hide_border=true&background=12352B&stroke=4A5C52&ring=FFC83D&fire=FFC83D&currStreakNum=F2E8D5&sideNums=F2E8D5&currStreakLabel=FFC83D&sideLabels=B9C7B4&dates=B9C7B4" alt="Sequência de contribuições"/>
+  <img src="./profile-summary-card-output/felip/0-profile-details.svg" width="100%" alt="Calendário de contribuições"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/1felip/1felip/output/github-snake-felip.svg" alt="Cobrinha comendo as contribuições"/>
+  <img src="./profile-summary-card-output/felip/3-stats.svg" width="49%" alt="Estatísticas"/>
+  <img src="./profile-summary-card-output/felip/2-most-commit-language.svg" width="49%" alt="Linguagens com mais commits"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=1felip&theme=tokyonight&hide_border=true&background=12352B&stroke=4A5C52&ring=FFC83D&fire=FFC83D&currStreakNum=F2E8D5&sideNums=F2E8D5&currStreakLabel=FFC83D&sideLabels=B9C7B4&dates=B9C7B4&locale=pt_BR" alt="Sequência de contribuições"/>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1felip/1felip/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1felip/1felip/output/github-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/1felip/1felip/output/github-snake-dark.svg" alt="Cobrinha comendo as contribuições"/>
+  </picture>
 </p>
 
 ---
 
 <p align="center">
-  <strong>Tem um processo manual que dá para automatizar?</strong><br/>
-  Conte qual tarefa toma tempo do seu time: <a href="https://www.linkedin.com/in/felipepaschoinireis">LinkedIn</a> · <a href="mailto:fepaschoini@gmail.com">e-mail</a> · <a href="https://www.felip.cloud">felip.cloud</a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=1felip&label=visitas&color=12352B&style=flat-square" alt="Visitas"/>
-  <br/><sub><code>Construído em público, anotado no caminho.</code></sub>
+  Quer conversar sobre IA, automação ou um processo que dá para automatizar? <a href="https://www.linkedin.com/in/felipepaschoinireis">Me chama no LinkedIn</a>.
 </p>

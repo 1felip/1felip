@@ -1,7 +1,0 @@
-{
-  "name": "perfil-marca",
-  "private": true,
-  "description": "Gera banner, botões, ícones e cards dos repositórios com a identidade do felip.cloud",
-  "scripts": { "gerar": "node gerar.js" },
-  "dependencies": { "opentype.js": "1.3.4" }
-}
